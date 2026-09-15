@@ -1,0 +1,18 @@
+# Binaries
+bin/
+server
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Temporary build artifacts
+*.tar.gz
+*.pdf
+*.log
+
+# OS/IDE
+.DS_Store
+.idea/
+.vscode/
